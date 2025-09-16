@@ -1,0 +1,2 @@
+# Dropout-Defender
+Here’s a shorter version:  **Developed a web app using Firebase and machine learning (Logistic Regression, Random Forest) to predict student dropout risk, enabling real-time data handling and role-based access for better educational support and intervention.**
